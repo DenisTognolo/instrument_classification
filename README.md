@@ -3,7 +3,7 @@ This work goals to develop a classificator for music instruments using different
 In particular I tried four different techniques for feature extraction and two classification models, all of
 them tuned properly in their parameters, in order to find the most performant solution.
 
-Please refer to the *report.pdf* for all the details.
+Please refer to the *Report.pdf* for all the details.
 
 ## Dependencies:
 ```terminal
