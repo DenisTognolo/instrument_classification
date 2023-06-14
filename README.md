@@ -5,6 +5,14 @@ them tuned properly in their parameters, in order to find the most performant so
 
 Please refer to the *report.pdf* for all the details.
 
+## Dependencies:
+```terminal
+pip install numpy
+pip install librosa
+pip install scikit-learn
+pip install matplotlib
+```
+
 ## USAGE:
 
 ### MP3 to WAV converter:
