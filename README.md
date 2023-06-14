@@ -54,7 +54,7 @@ python main_KNN.py --folder='..' --dur=.. --rateo=.. --feature_type='..' --frame
 *Run the training and then evalue a model based on SVM and a certain feature to be specified. In particular you can specify: the input folder for the dataset, the duration of the files to consider, the rateo between training and test set, the feature type, frame length, hop length, number of mel-bands and number of max iteration and model order to consider during KNN. A figure of the confusion matrix and a text file containing all the evaluation metrics for each test will be saved inside the results folder.*
 
 ```terminal
-python main_KNN.py --folder='..' --dur=.. --rateo=.. --feature_type='..' --frame_length=.. --hop_length=.. --n_mels=.. --order=.. --max_iter=..
+python main_SVM.py --folder='..' --dur=.. --rateo=.. --feature_type='..' --frame_length=.. --hop_length=.. --n_mels=.. --order=.. --max_iter=..
 ```
 
 ### Multi SVM Classifier:
