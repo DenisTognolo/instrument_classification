@@ -10,9 +10,9 @@ Please refer to the *report.pdf* for all the details.
 ## MP3 to WAV converter:
 ### *Convert all the mp3 files contained in the folder 'your_folder_mp3' (and its sub folder) into wav files and save into a new folder 'your_folder' maintaining the internal folder structure.*
 
-
-- python mp3_wav_converter.py --folder_in='your_folder_mp3'
-
+```terminal
+python mp3_wav_converter.py --folder_in='your_folder_mp3'
+```
 
 ## Single Feature Visualizator:
 ### *Visualize all the features (original, STFT, MSTFT, SC, MFCC) for a given audio file 'audio.wav', specifying some feature specifics such as duration, frame length, hop length, and number of mel-bands. A figure of each feature will be saved inside the images folder.*
