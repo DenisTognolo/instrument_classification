@@ -1,0 +1,16 @@
+SVM - MFCC - fl: 1024 - hl: 64 - nm: 8 - ord: 3 - mi: 10000:
+
+Class oboe :: accuracy: 0.96 | precision: 0.7 | recall: 0.86 | fscore: 0.77
+Class violin :: accuracy: 0.95 | precision: 0.69 | recall: 0.56 | fscore: 0.62
+Class cor anglais :: accuracy: 0.98 | precision: 0.84 | recall: 0.91 | fscore: 0.88
+Class bass clarinet :: accuracy: 0.93 | precision: 0.74 | recall: 0.41 | fscore: 0.53
+Class trombone :: accuracy: 0.97 | precision: 0.81 | recall: 0.83 | fscore: 0.82
+Class viola :: accuracy: 0.92 | precision: 0.59 | recall: 0.49 | fscore: 0.53
+Class saxophone :: accuracy: 0.95 | precision: 0.69 | recall: 0.59 | fscore: 0.64
+Class contrabassoon :: accuracy: 0.95 | precision: 0.7 | recall: 0.8 | fscore: 0.74
+Class french horn :: accuracy: 0.95 | precision: 0.66 | recall: 0.86 | fscore: 0.75
+Class cello :: accuracy: 0.93 | precision: 0.57 | recall: 0.6 | fscore: 0.58
+Class tuba :: accuracy: 0.98 | precision: 0.87 | recall: 0.86 | fscore: 0.87
+Class double bass :: accuracy: 0.96 | precision: 0.74 | recall: 0.86 | fscore: 0.79
+
+Total Model :: accuracy: 0.95 | precision: 0.72 | recall: 0.72 | fscore: 0.71

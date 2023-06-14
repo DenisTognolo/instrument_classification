@@ -1,0 +1,16 @@
+SVM - STFT - fl: 2048 - hl: 1536 - nm: 128 - ord: 3 - mi: 10000:
+
+Class oboe :: accuracy: 1.0 | precision: 1.0 | recall: 0.98 | fscore: 0.99
+Class violin :: accuracy: 1.0 | precision: 1.0 | recall: 1.0 | fscore: 1.0
+Class cor anglais :: accuracy: 1.0 | precision: 0.98 | recall: 0.98 | fscore: 0.98
+Class bass clarinet :: accuracy: 1.0 | precision: 1.0 | recall: 0.99 | fscore: 0.99
+Class trombone :: accuracy: 1.0 | precision: 1.0 | recall: 1.0 | fscore: 1.0
+Class viola :: accuracy: 1.0 | precision: 0.99 | recall: 1.0 | fscore: 0.99
+Class saxophone :: accuracy: 1.0 | precision: 0.99 | recall: 1.0 | fscore: 0.99
+Class contrabassoon :: accuracy: 1.0 | precision: 0.99 | recall: 1.0 | fscore: 0.99
+Class french horn :: accuracy: 1.0 | precision: 0.99 | recall: 0.98 | fscore: 0.98
+Class cello :: accuracy: 1.0 | precision: 1.0 | recall: 1.0 | fscore: 1.0
+Class tuba :: accuracy: 1.0 | precision: 1.0 | recall: 1.0 | fscore: 1.0
+Class double bass :: accuracy: 1.0 | precision: 0.99 | recall: 0.99 | fscore: 0.99
+
+Total Model :: accuracy: 1.0 | precision: 0.99 | recall: 0.99 | fscore: 0.99

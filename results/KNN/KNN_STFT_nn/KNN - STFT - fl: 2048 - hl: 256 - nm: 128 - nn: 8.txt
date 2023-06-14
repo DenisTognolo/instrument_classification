@@ -1,0 +1,16 @@
+KNN - STFT - fl: 2048 - hl: 256 - nm: 128 - nn: 8:
+
+Class oboe :: accuracy: 0.96 | precision: 0.77 | recall: 0.77 | fscore: 0.77
+Class violin :: accuracy: 0.97 | precision: 0.75 | recall: 0.91 | fscore: 0.82
+Class cor anglais :: accuracy: 0.95 | precision: 0.66 | recall: 0.74 | fscore: 0.7
+Class bass clarinet :: accuracy: 0.94 | precision: 0.73 | recall: 0.6 | fscore: 0.66
+Class trombone :: accuracy: 0.95 | precision: 0.59 | recall: 0.92 | fscore: 0.72
+Class viola :: accuracy: 0.96 | precision: 0.83 | recall: 0.61 | fscore: 0.7
+Class saxophone :: accuracy: 0.98 | precision: 0.89 | recall: 0.87 | fscore: 0.88
+Class contrabassoon :: accuracy: 0.96 | precision: 0.71 | recall: 0.88 | fscore: 0.78
+Class french horn :: accuracy: 0.94 | precision: 0.73 | recall: 0.6 | fscore: 0.66
+Class cello :: accuracy: 0.95 | precision: 0.81 | recall: 0.56 | fscore: 0.67
+Class tuba :: accuracy: 0.98 | precision: 0.85 | recall: 0.94 | fscore: 0.89
+Class double bass :: accuracy: 0.97 | precision: 0.91 | recall: 0.79 | fscore: 0.85
+
+Total Model :: accuracy: 0.96 | precision: 0.77 | recall: 0.77 | fscore: 0.76
