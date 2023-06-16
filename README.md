@@ -3,7 +3,7 @@ This work goals to develop a classificator for music instruments using different
 In particular I tried four different techniques for feature extraction and two classification models, all of
 them tuned properly in their parameters, in order to find the most performant solution.
 
-Please refer to the *report.pdf* for all the details.
+Please refer to the *Report.pdf* for all the details.
 
 ## Dependencies:
 ```terminal
@@ -16,7 +16,7 @@ pip install matplotlib
 ## USAGE:
 
 ### MP3 to WAV converter:
-*Convert all the mp3 files contained in the folder 'your_folder_mp3' (and its sub folder) into wav files and save into a new folder 'your_folder' maintaining the internal folder structure.*
+*Convert all the mp3 files contained in the folder 'your_folder_mp3' (and its sub folders) into wav files and save into a new folder 'your_folder' maintaining the internal folder structure.*
 
 ```terminal
 python mp3_wav_converter.py --folder_in='your_folder_mp3'
